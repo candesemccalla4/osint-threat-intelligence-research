@@ -1,102 +1,44 @@
-# OSINT Threat Intelligence Research
+# OSINT Cyber Threat Intelligence Research
 
 ## Overview
 
-This project demonstrates the use of Open-Source Intelligence (OSINT) techniques to investigate simulated cyber threats using publicly available information.
+This project demonstrates the use of Open-Source Intelligence (OSINT) techniques to collect, analyze, and document publicly available cybersecurity intelligence.
 
-The objective was to identify attacker infrastructure, analyze digital footprints, discover Indicators of Compromise (IOCs), and document findings through a structured cyber threat intelligence methodology.
-
----
-
-## Research Objectives
-
-- Investigate suspicious domains
-- Identify attacker infrastructure
-- Discover IP addresses and DNS records
-- Analyze WHOIS information
-- Build threat intelligence timelines
-- Document Indicators of Compromise (IOCs)
-- Recommend mitigation strategies
+The goal of this research project was to investigate digital footprints, identify indicators of compromise (IOCs), analyze infrastructure relationships, and produce a structured cyber threat assessment.
 
 ---
 
-## Technologies
+# Research Objectives
+
+- Collect publicly available intelligence
+- Analyze domains and IP addresses
+- Identify potential security risks
+- Develop IOC datasets
+- Automate analysis using Python
+- Produce threat intelligence documentation
+
+---
+
+# Technologies Used
+
+## Programming
 
 - Python
+- CSV Data Processing
+
+## Cybersecurity Tools
+
 - Maltego
 - SpiderFoot
 - Shodan
 - WHOIS
-- Google Dorking
+- DNS Analysis
+
+## Environment
+
 - Linux
+- GitHub
 
 ---
 
-## Investigation Workflow
-
-1. Domain Collection
-2. WHOIS Enumeration
-3. DNS Analysis
-4. IP Investigation
-5. Infrastructure Mapping
-6. IOC Collection
-7. Threat Intelligence Analysis
-8. Risk Assessment
-
----
-
-## Research Questions
-
-- Who owns the infrastructure?
-- What domains are connected?
-- What IP addresses are involved?
-- What services are exposed?
-- What indicators suggest malicious behavior?
-- What defensive measures should organizations implement?
-
----
-
-## Indicators of Compromise
-
-- Domains
-- IP Addresses
-- DNS Records
-- Email Addresses
-- Open Ports
-- SSL Certificates
-
----
-
-## Results
-
-The investigation identified:
-
-- Multiple connected domains
-- Shared hosting infrastructure
-- Open network services
-- High-risk exposed assets
-- Several potential Indicators of Compromise
-
-The final report includes mitigation recommendations and a threat intelligence timeline.
-
----
-
-## Repository Structure
-
-```
-data/
-reports/
-scripts/
-docs/
-images/
-```
-
----
-
-## Author
-
-Candese McCalla
-
-Mercy University
-
-M.S. Cybersecurity
+# Project Workflow
