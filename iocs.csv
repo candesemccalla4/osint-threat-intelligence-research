@@ -1,5 +1,0 @@
-IOC Type,Value,Description
-Domain,example.com,Sample domain for analysis
-IP,93.184.216.34,Example IP address
-Hash,d41d8cd98f00b204e9800998ecf8427e,Example file hash
-Email,test@example.com,Sample email indicator
